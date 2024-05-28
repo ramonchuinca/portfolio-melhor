@@ -1,6 +1,10 @@
 @import'./global.css';
 @import'./style.css';
 @import'./introducao.css';
+@import "./header.css";
+@import "./experiencia.css";
+@import "./formacao.css";
+@import "./footer.css";
 
 .header {
     max-width: 1200px;
